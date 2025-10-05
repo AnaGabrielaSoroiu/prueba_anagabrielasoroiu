@@ -31,7 +31,7 @@ Ahora voy a crear una lista ordenada:
 
 ### Ahora un trozo de código
 
-`javascript`
+```javascript
 
 function saludar(){
   alert("Hola, esto es un ejemplo");
